@@ -5,12 +5,14 @@
 }
 
 body {
-  /* more on this crazy alphanumerical value in a minute! */
+  
   color: #39a6b2;
   font-family: Helvetica, Arial, sans-serif;
 }
 
-/* apply styles to <header> */
+/* apply styles to <header> 
+a{ is going to add an underline so we need tex-decoration: none
+  this is a mulit line comment*/
 header {
   padding: 20px 35px;
   background-color: #39a6b2;
